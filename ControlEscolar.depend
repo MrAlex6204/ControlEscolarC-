@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1413602667 source:c:\documents and settings\administrador\mis documentos\cplusplus\controlescolar\controlescolar\main.h
+	<string>
+	<iostream>
+
+1413693955 source:c:\documents and settings\administrador\mis documentos\cplusplus\controlescolar\controlescolar\main.cpp
+	<iostream>
+	<list>
+	<stdlib.h>
+	<stdio.h>
+
+1413603194 c:\documents and settings\administrador\mis documentos\cplusplus\controlescolar\controlescolar\main.h
+	<string>
+	<iostream>
+
